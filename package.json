@@ -1,0 +1,12 @@
+{
+  "name": "login-attemt-aethrix-assesment",
+  "version": "1.0.0",
+  "description": "Failed Login Lockout Detector",
+  "main": "login-attemt.js",
+  "scripts": {
+    "test": "node login-attemt.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
